@@ -1,0 +1,4 @@
+Nov 05, 2016 1:18:33 PM runner.Tcc2TspComparisonRunner main
+INFO: Input: [1193700, 229003, 3258667, 2512448]
+Nov 05, 2016 1:18:34 PM runner.Tcc2TspComparisonRunner main
+INFO: Loaded graph in: 0.547s

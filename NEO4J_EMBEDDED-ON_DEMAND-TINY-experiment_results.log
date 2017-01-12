@@ -1,0 +1,16 @@
+Nov 03, 2016 1:10:55 PM runner.Tcc2TspComparisonRunner main
+INFO: Input: [272, 329, 1640, 653]
+Nov 03, 2016 1:11:01 PM runner.Tcc2TspComparisonRunner main
+INFO: Loaded graph in: 5.291s
+Nov 03, 2016 1:11:01 PM runner.Tcc2TspComparisonRunner solveTsp
+INFO: Solved in: 0.375s Length: 0.862716199999951 Path: [0, 3, 2, 1] Input: [272, 329, 1640, 653]
+Nov 03, 2016 1:11:03 PM runner.Tcc2TspComparisonRunner main
+INFO: Loaded graph in: 0.891s
+Nov 03, 2016 1:11:03 PM runner.Tcc2TspComparisonRunner solveTsp
+INFO: Solved in: 0.187s Length: 0.862716199999951 Path: [0, 3, 2, 1] Input: [272, 329, 1640, 653]
+Nov 03, 2016 1:11:05 PM runner.Tcc2TspComparisonRunner main
+INFO: Loaded graph in: 0.86s
+Nov 03, 2016 1:11:05 PM runner.Tcc2TspComparisonRunner solveTsp
+INFO: Solved in: 0.125s Length: 0.862716199999951 Path: [0, 3, 2, 1] Input: [272, 329, 1640, 653]
+Nov 03, 2016 1:11:06 PM runner.Tcc2TspComparisonRunner main
+INFO: Total time: 10.463s

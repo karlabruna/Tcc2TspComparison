@@ -1,0 +1,16 @@
+Nov 12, 2016 11:42:29 AM runner.Tcc2TspComparisonRunner main
+INFO: Input: [135453, 388326, 157591, 439506]
+Nov 12, 2016 11:42:43 AM runner.Tcc2TspComparisonRunner main
+INFO: Loaded graph in: 14.591s
+Nov 12, 2016 11:50:19 AM runner.Tcc2TspComparisonRunner solveTsp
+INFO: Solved in: 455.209s Length: 13.193461399999164 Path: [0, 1, 3, 2] Input: [135453, 388326, 157591, 439506]
+Nov 12, 2016 11:50:27 AM runner.Tcc2TspComparisonRunner main
+INFO: Loaded graph in: 8.594s
+Nov 12, 2016 11:58:25 AM runner.Tcc2TspComparisonRunner solveTsp
+INFO: Solved in: 477.944s Length: 13.193461399999164 Path: [0, 1, 3, 2] Input: [135453, 388326, 157591, 439506]
+Nov 12, 2016 11:58:35 AM runner.Tcc2TspComparisonRunner main
+INFO: Loaded graph in: 10.376s
+Nov 12, 2016 12:07:17 PM runner.Tcc2TspComparisonRunner solveTsp
+INFO: Solved in: 521.657s Length: 13.193461399999164 Path: [0, 1, 3, 2] Input: [135453, 388326, 157591, 439506]
+Nov 12, 2016 12:07:17 PM runner.Tcc2TspComparisonRunner main
+INFO: Total time: 1488.433s

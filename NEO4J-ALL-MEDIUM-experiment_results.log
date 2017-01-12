@@ -1,0 +1,16 @@
+Oct 21, 2016 8:03:24 PM runner.Tcc2TspComparisonRunner main
+INFO: Input: [1193700, 229003, 3258667, 2512448]
+Oct 21, 2016 8:04:32 PM runner.Tcc2TspComparisonRunner main
+INFO: Loaded graph in: 68.236s
+Oct 21, 2016 8:04:58 PM runner.Tcc2TspComparisonRunner solveTsp
+INFO: Solved in: 25.907s Length: 16.636175450000003 Path: [0, 1, 3, 2] Input: [1193700, 229003, 3258667, 2512448]
+Oct 21, 2016 8:06:06 PM runner.Tcc2TspComparisonRunner main
+INFO: Loaded graph in: 67.716s
+Oct 21, 2016 8:06:49 PM runner.Tcc2TspComparisonRunner solveTsp
+INFO: Solved in: 43.301s Length: 16.636175450000003 Path: [0, 1, 3, 2] Input: [1193700, 229003, 3258667, 2512448]
+Oct 21, 2016 8:08:10 PM runner.Tcc2TspComparisonRunner main
+INFO: Loaded graph in: 81.371s
+Oct 21, 2016 8:08:55 PM runner.Tcc2TspComparisonRunner solveTsp
+INFO: Solved in: 44.933s Length: 16.636175450000003 Path: [0, 1, 3, 2] Input: [1193700, 229003, 3258667, 2512448]
+Oct 21, 2016 8:08:55 PM runner.Tcc2TspComparisonRunner main
+INFO: Total time: 331.532s

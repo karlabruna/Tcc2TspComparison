@@ -1,0 +1,45 @@
+Oct 31, 2016 8:36:57 PM runner.Tcc2TspComparisonRunner main
+INFO: Input: [272, 329, 1640, 653]
+Oct 31, 2016 8:36:59 PM runner.Tcc2TspComparisonRunner main
+INFO: Loaded graph in: 1.992s
+Oct 31, 2016 8:37:01 PM runner.Tcc2TspComparisonRunner main
+INFO: model.graph.cache.FastGraphCache@757d6814d footprint:
+     COUNT       AVG       SUM   DESCRIPTION
+      2033        56    113848   [Ljava.lang.Object;
+         1     16400     16400   [Ljava.util.HashMap$Node;
+      2033        16     32528   java.lang.Integer
+      2033        24     48792   java.util.ArrayList
+         1        48        48   java.util.HashMap
+      2033        32     65056   java.util.HashMap$Node
+      2033        24     48792   model.graph.Node
+      4830        24    115920   model.graph.Relationship
+         1        32        32   model.graph.cache.FastGraphCache
+      2034        24     48816   model.graph.cache.FastGraphCache$Entry
+     17032              490232   (total)
+
+
+Oct 31, 2016 8:37:01 PM runner.Tcc2TspComparisonRunner main
+INFO: java.util.HashMap@cb51256d footprint:
+     COUNT       AVG       SUM   DESCRIPTION
+         1     16400     16400   [Ljava.util.HashMap$Node;
+      1543        16     24688   java.lang.Integer
+         1        48        48   java.util.HashMap
+      1543        32     49376   java.util.HashMap$Node
+      1543        32     49376   model.dijkstra.DijkstraNode
+      4631              139888   (total)
+
+
+Oct 31, 2016 8:37:01 PM runner.Tcc2TspComparisonRunner main
+INFO: algorithm.dijkstra.DijkstraQueue@7791a895d footprint:
+     COUNT       AVG       SUM   DESCRIPTION
+         1        48        48   [C
+         1       424       424   [Ljava.lang.Object;
+         1        24        24   algorithm.dijkstra.DijkstraQueue
+         1        16        16   algorithm.dijkstra.DijkstraQueue$DijkstraNodeComparator
+         1        24        24   algorithm.dijkstra.DijkstraQueue$Type
+         1        24        24   java.lang.String
+         1        32        32   java.util.PriorityQueue
+        18        32       576   model.dijkstra.DijkstraNode
+        25                1168   (total)
+
+
